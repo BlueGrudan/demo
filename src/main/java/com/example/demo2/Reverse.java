@@ -6,6 +6,6 @@ public class Reverse {
     public static void main(String[] args) {
         StringBuffer str = new StringBuffer("abcdefgh");
         System.out.println(str.reverse());
-        System.out.println("reverse 123");
+        System.out.println("reverse 456");
     }
 }
