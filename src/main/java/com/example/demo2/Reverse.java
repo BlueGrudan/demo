@@ -4,7 +4,7 @@ import java.util.WeakHashMap;
 
 public class Reverse {
     public static void main(String[] args) {
-        StringBuffer str = new StringBuffer("abcdefg");
+        StringBuffer str = new StringBuffer("abcdefgh");
         System.out.println(str.reverse());
         System.out.println("reverse 实现");
     }
